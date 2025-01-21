@@ -1,6 +1,3 @@
-# VanityGPT-API-Examples
-How to use and integrate the Vanity GPT API
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -8,3 +5,7 @@ How to use and integrate the Vanity GPT API
     <img src="https://cdn.brooder.tech/vgpt/logo.png" alt="Logo" \>
   </a>
 </div>
+
+# VanityGPT-API-Examples
+How to use and integrate the Vanity GPT API
+
