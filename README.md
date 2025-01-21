@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Brooder-Tech/VanityGPT-API-Examples">
-    <img src="https://cdn.brooder.tech/vgpt/logo.png" alt="Logo" \>
+    <img src="https://cdn.brooder.tech/vgpt/github.png" alt="Logo" \>
   </a>
 </div>
 
