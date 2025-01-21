@@ -10,11 +10,11 @@ interface WalletData {
 }
 
 
-// This GET URL uses the paramaeters Letters for the letters to be used.
+// This GET URL uses the paramaeters text for the letters to be used.
 // The method for the address type is START, but can also be END or BOTH
 
 function getVanityWalletData(): Promise {
-	return fetch('https://api.vanityGPT.com/create-address/?letters=AA&method=START', {
+	return fetch('https://api.vanityGPT.com/create-address/?text=AA&method=START', {
 		method: 'GET',
 		headers: {
 			'x-api-key': 'your_api_key',
