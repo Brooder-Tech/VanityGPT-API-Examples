@@ -1,5 +1,5 @@
 <?php
-$url = "https://api.vanityGPT.com/create-address/?letters=AA&method=START";
+$url = "https://api.vanityGPT.com/create-address/?text=AA&method=START";
 $headers = [
     "x-api-key: your_api_key",
     "Accept: application/json"
