@@ -18,7 +18,7 @@ We have tried to make everything as simple as possible, offering only a few call
 
 Request an API key via <a href="https://api.vanitygpt.com" target="_blank" >api.vanity.com</a>
 
-If you need further assistance please send a DM to our X account x.com/vanitylabs or email chick@brooder.tech
+If you need further assistance please send a DM to our X account <a href="https://x.com/vanitylabs" target="_blank" >x.com/vanitylabs</a> or email chick@brooder.tech
 
 ### Prerequisites
 
