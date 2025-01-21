@@ -7,15 +7,16 @@
 </div>
 
 # VanityGPT-API-Examples
-How to use and integrate the Vanity GPT API
+VanityGPT API is a simple-to-use Solana wallet address creator. It allows you to use everything VanityGPT.com offers including custom characters at the start, end or different combinations at both ends.
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 There are no packages or libraries that need to be installed to call the Vanity GPT API. 
+
 We have tried to make everything as simple as possible, offering only a few calls and parameters to ensure you get the responses you expect.
 
-You will however need to obtain a API Key with you can apply for on our <a href="https://api.vanitygpt.com/" alt="" target="_blank">application page</a>
+You will however need to obtain a API Key Request an API key via
 
 
 ### Prerequisites
