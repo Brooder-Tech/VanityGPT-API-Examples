@@ -16,8 +16,9 @@ There are no packages or libraries that need to be installed to call the Vanity 
 
 We have tried to make everything as simple as possible, offering only a few calls and parameters to ensure you get the responses you expect.
 
-You will however need to obtain a API Key Request an API key via
+Request an API key via <a href-="https://api.vanitygpt.com" target="_blank" >api.vanity.com</a>
 
+If you need further assistance please send a DM to our X account x.com/vanitylabs or email chick@brooder.tech
 
 ### Prerequisites
 
